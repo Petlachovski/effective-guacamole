@@ -4,7 +4,7 @@ __Building__
 
 To build the program, you will need [cmake](https://cmake.org/)
 ```
-cd studious-eureka/apps
+cd effective-guacamole/app
 mkdir build
 cd build
 cmake ..
